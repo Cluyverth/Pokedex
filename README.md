@@ -26,4 +26,4 @@
 
 ---
 
-<img src="/home/cupofcoffee/Documents/git_rep/Pokedex-V0.0.1/Images/using.gif" alt="Using the project .gif"  width="750" />
+<img src="./Images/using.gif" alt="Using the project .gif"  width="750" />
