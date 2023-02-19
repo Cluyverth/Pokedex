@@ -2,7 +2,7 @@
 
 *I made this project to learn HTML, CSS and JS and how to consume APIs*
 
- Link to the project: [Pokedex](www.cluyverth.com/pokedex)
+ Link to the project: [Pokedex](https://cluyverth.com/pokedex/)
 
 </br>
 
