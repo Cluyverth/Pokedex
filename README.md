@@ -1,6 +1,8 @@
 # Pokedex-V0.0.1
 
-*I made this project to learn HTML, CSS and JS*
+*I made this project to learn HTML, CSS and JS and how to consume APIs*
+
+ Link to the project: [Pokedex](Cluyverth.com/pokedex)
 
 </br>
 
